@@ -135,3 +135,11 @@ Secure Password Storage
 Backend Architecture
 
 Application Security Basics
+
+
+
+
+👨‍💻 Author
+
+Theodore
+Backend Developer | ERP Developer | Future Application Security Engineer
