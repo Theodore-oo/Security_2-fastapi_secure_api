@@ -32,6 +32,7 @@ Passlib (bcrypt)
 
 
 ⚙️ Installation
+
 1️⃣ Clone Repository
 git clone https://github.com/yourusername/fastapi-secure-api.git
 cd fastapi-secure-api
